@@ -19,6 +19,6 @@ Inspired by real-world university operations, the system includes functionality 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kunika0418/University-Management-System
+   git clone https://github.com/Sparsh117/University-Management-System
 2. Open the main file, i.e., Splash.java.
 3. Run the file to start the application.
